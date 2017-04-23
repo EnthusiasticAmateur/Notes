@@ -2,6 +2,37 @@
 
 [Mount](README.md/#Mount)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Mount
 sudo fdisk -l   //List disks and their details
 
