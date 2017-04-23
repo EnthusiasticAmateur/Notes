@@ -1,34 +1,6 @@
 # Notes
 
-[Mount](README.md/#Mount)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[Mount](#Mount)
 
 
 
